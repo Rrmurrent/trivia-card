@@ -1,0 +1,7 @@
+Moving Forward:
+
+-Add a button to reset the quiz and make the wrong answers reappear?
+
+-Make a new question to appear after getting a question correct?
+
+-Use arrays to set up a quiz with multiple questions?
