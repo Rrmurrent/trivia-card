@@ -1,7 +1,7 @@
 body {
 	display:flex;
   justify-content:center;
-  background-color: #86bdfd;
+  background-color: black;
 }
 
 .card{
@@ -14,6 +14,7 @@ body {
   line-height: 1.29;
   letter-spacing: 0.4px;
   color: #0b2748;
+  font-weight: bolder;
 }
 
 .question{
@@ -81,7 +82,8 @@ body {
   background-color: #0b2748;
 }
 .smiley{
-	display: none;
+  display: none;
+  cursor: pointer;
 }
 
 .frown{
@@ -94,7 +96,7 @@ body {
   font-weight: 600;
   line-height: 0.48;
   letter-spacing: 0.4px;
-  color: #4a90e2;
+  color: gold;
 }
 
 .answer-text {
